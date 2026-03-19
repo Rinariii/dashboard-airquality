@@ -138,7 +138,8 @@ h2.section-title {
 
 @st.cache_data
 def load_data():
-    df = pd.read_csv(r"C:\Users\steve\Downloads\Dicoding submission\dashboard\main_data.csv")
+    url = "https://drive.google.com/uc?id=1MiZvCaDOJ3xasMAqsbEfsx6h32oaBegf"
+    df = pd.read_csv(url)
     return df
 
 df_raw = load_data()
