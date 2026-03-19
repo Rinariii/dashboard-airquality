@@ -71,7 +71,7 @@ Project ini bertujuan untuk:
 ### 1. Clone repository
 
 ```bash
-git clone https://github.com/username/air-quality-dashboard.git
+git clone https://github.com/Rinariii/air-quality-dashboard.git
 cd air-quality-dashboard/dashboard
 ```
 
